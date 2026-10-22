@@ -65,6 +65,8 @@ It checks that the documents are complete and connected. It does not prove the r
 
 ## Diagram
 [Editable draw.io architecture](../diagrams/src/01-governance-architecture.drawio): components tagged with the principle (P1–P5) and ADR they follow.
+to be done. Only png handwritten for the system.
+
 
 ## References
 Formats are adapted from public templates; the scenario, principles, decisions, checklist items and diagram are original to this system.
